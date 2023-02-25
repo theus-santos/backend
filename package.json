@@ -22,5 +22,8 @@
     "sequelize": "^6.28.0",
     "sequelize-cli": "^6.6.0",
     "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "jest": "^29.4.3"
   }
 }
